@@ -1,0 +1,15 @@
+body{
+    background-image: url("../images/welcome-hero/welcome-banner.jpg");
+    background-size: cover;
+}
+/* Custom styles in newstyle.css */
+
+/* Change the background color of the body */
+body {
+    background-color: #f5f5f5;
+}
+
+/* Custom styling for a specific element */
+.header-area {
+    border-bottom: 2px solid #333;
+}
